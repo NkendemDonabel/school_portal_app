@@ -1,0 +1,29 @@
+﻿Folder PATH listing
+Volume serial number is 0000003F DE0A:4AF4
+C:\USERS\CHIKI\ANDROIDSTUDIOPROJECTS\SHOOL_PORTAL\LIB\FEATURES\ADMIN_DASHBOARD
+└───payment_management
+    │   example_main.dart
+    │   FOLDER_STRUCTURE.txt
+    │   IMPLEMENTATION_GUIDE.md
+    │   navigation_example.dart
+    │   PROJECT_SUMMARY.md
+    │   README.md
+    │   
+    ├───models
+    │       fee_structure.dart
+    │       payment_method.dart
+    │       payment_record.dart
+    │       
+    ├───presentation
+    │   ├───pages
+    │   │       admin_payment_dashboard_page.dart
+    │   │       
+    │   └───widgets
+    │           fee_structure_card.dart
+    │           payment_method_switch_tile.dart
+    │           payment_record_tile.dart
+    │           payment_summary_card.dart
+    │           
+    └───services
+            payment_service.dart
+            
